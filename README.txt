@@ -1,1 +1,1 @@
-https://github.com/Noctax/Yettou-Fares.git 
+https://noctax.github.io/Yettou-Fares/
